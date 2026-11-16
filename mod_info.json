@@ -1,0 +1,15 @@
+{
+  "id": "nightstorm_animated_interactions",
+  "name": "Nightstorm Animated Interaction Visuals",
+  "author": "Nightstorm",
+  "version": "1.0.0",
+  "description": "Replaces static interaction illustrations with VideoLib-driven animated loops.",
+  "gameVersion": "0.98a-RC8",
+  "utility": "true",
+  "dependencies": [
+    {
+      "id": "video_lib",
+      "name": "VideoLib"
+    }
+  ]
+}
