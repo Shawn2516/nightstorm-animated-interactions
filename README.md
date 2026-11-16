@@ -1,4 +1,6 @@
-# Nightstorm Animated Interaction Visuals
+﻿# Nightstorm Animated Interaction Visuals
+
+**Download:** [Nightstorm-1.0.0.zip](https://github.com/Shawn2516/nightstorm-animated-interactions/releases/download/v1.0.0/Nightstorm-1.0.0.zip) | **Requires:** [VideoLib](https://github.com/rolfosian/Starsector-VideoLib/releases)
 
 Replaces static interaction illustrations with looping videos in campaign dialogs (the large visual on the right side at stations/markets/planets).
 
@@ -7,7 +9,7 @@ This mod uses `VideoLib` texture overrides, so no Java compilation is required.
 ## Requirements
 
 - Starsector `0.98a-RC8`
-- `VideoLib` (`id: video_lib`) installed and enabled
+- [VideoLib](https://github.com/rolfosian/Starsector-VideoLib/releases) (`id: video_lib`, 0.1.1 or newer) installed and enabled
 
 ## Installation
 
